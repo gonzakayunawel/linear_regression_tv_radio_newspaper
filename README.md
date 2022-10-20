@@ -1,4 +1,4 @@
-# Modelo de Regresión Lineal Simple usando ScikitLearn
+# Modelo de Regresión Lineal Simple usando Scikit Learn
 
 # Regresión Lineal Simple
 
