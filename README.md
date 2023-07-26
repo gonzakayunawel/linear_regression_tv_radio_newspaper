@@ -1,4 +1,4 @@
-# What's option with the best return of invesment to spend in advertisment?
+# Which is option with the best return of invesment to spend in advertisment?
 
 # Simple Linear Regression
 
